@@ -1,0 +1,4 @@
+node_modules
+.env
+rgs_bloqueados.json
+pontos_abertos.json
